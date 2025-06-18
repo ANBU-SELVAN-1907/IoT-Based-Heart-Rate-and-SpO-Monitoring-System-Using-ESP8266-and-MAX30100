@@ -9,11 +9,17 @@ This project demonstrates how to monitor **heart rate and SpO₂** using the **M
 
 ---
 
-## 🧠 Technologies Used
+## 🧠 MATERIALS & TECH REQUIRED:
 
-- ⚙️ **ESP8266** (e.g., NodeMCU)
+- ⚙️ **ESP8266** (e.g.,![download](https://github.com/user-attachments/assets/f456f29b-8299-4003-92ea-346b5b5d7f83)
+ NodeMCU)
+- 
 - ❤️ **MAX30100** Pulse Oximeter and Heart Rate Sensor
+- ![Max30100-Sensor-scaled](https://github.com/user-attachments/assets/86bbecbf-2cf8-443f-b2bf-456f6a423e02)
+
 - ☁️ **Firebase Realtime Database**
+- ![download](https://github.com/user-attachments/assets/de84e89b-29de-4b6b-b0b2-583864254b50)
+
 - 🌐 **Flask (Python micro-framework)**
 - 🔁 **HTTP (REST API via ESP8266)**
 - 📊 **Web Dashboard** for live visualization
